@@ -1,3 +1,1 @@
-worker:
-python
-AI_bot.py
+worker: python AI_bot.py
